@@ -1,0 +1,82 @@
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+body{
+    font-family:Roboto, sans-serif;
+}
+footer{
+    background-color: #2E2F42;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+#logo{
+   font-family:Raleway, sans-serif;
+    color:#2E2F42;
+}
+#logo-alt{
+   font-family:Raleway, sans-serif;
+    color:#F4F4FD;
+}
+
+.accent{
+    color:#4D5AE5;
+}
+
+.nav-li{
+    
+    color:#2E2F42;
+
+}
+
+.contact{
+    color:#434455;
+}
+
+.h1-box{
+    background-color: #2E2F42;
+}
+
+.order-button{
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+
+.advantages-title{
+    color: #2E2F42;
+}
+.advantages-paragraph{
+    color: #434455;
+}
+.team-box{
+    background-color: #F4F4FD;
+}
+.team-title{
+    color: #2E2F42;
+}
+.teammate-name{
+    color: #2E2F42;
+}
+.teammate-pos{
+    color: #434455;
+}
+.portfolio-title{
+    color: #2E2F42;
+}
+.portfolio-service{
+    color: #2E2F42;
+}
+.portfolio-type{
+    color: #434455;
+}
+.footer-text{
+    color: #F4F4FD;
+}
